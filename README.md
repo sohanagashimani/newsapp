@@ -1,5 +1,3 @@
-##infinite scroll, top loading bar,react-router
-
 
 
 # Getting Started with Create React App
